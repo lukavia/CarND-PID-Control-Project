@@ -7,6 +7,8 @@ The goal of this project is to implement PID controller in C++. The PID controll
 
 ## Reflections
 
+I have chosen the 3 parameters manually. I've started out with the values from the lesson and confirmed my understanding of the values by tweaking them up and down and testing the results in the simulator. At first I've incidentally swapped the I and D and the behaviour made no sense, but then I've catch the error and everything fall in to place.
+
 The 3 parameters have the following effect
 
 ### P stand for proportional
